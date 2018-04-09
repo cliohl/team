@@ -1,0 +1,36 @@
+.top{
+	background-color: #333;
+	width: 700%;
+}
+.backg {
+	background-color: #FFF;
+}
+
+.atitle {
+	color: #DB6E0E;
+	font-size: 24px;
+	text-align: left;
+}
+.zhengwen {
+	font-size: 18px;
+	color: #FD8C1D;
+	text-indent: 2em;
+}
+.foot {
+	font-size: 12px;
+	color: #CCC;
+	width: auto;
+}
+.pic {
+	text-align: center;
+
+
+}
+.tablezw {
+	color: #FFB51B;
+}
+
+
+.footb {
+	background-color: #666;
+}
